@@ -88,8 +88,7 @@ Science: A Source Book</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(47).pdf" style="text-decoration:none;">A Companion to Ancient Egyptian Art</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(48).pdf" style="text-decoration:none;">Ancient Egyptian Calligraphy: A Beginner's Guide to Writing Hieroglyphs  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(49).pdf" style="text-decoration:none;">Pursuits of Wisdom:
-Six Ways of Life in Ancient Philosophy from Socrates to Plotinus </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(49).pdf" style="text-decoration:none;">The Scepter of Egypt Part I: From the Earliest Times to the End of the Middle Kingdom </a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(50).pdf" style="text-decoration:none;">Sacred sexuality: ancient Egyptian tantric yoga</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(51).pdf" style="text-decoration:none;">Whatever Happened to the Egyptians? Changes in Egyptian Society from 1950 to the Present</a></li>
@@ -252,7 +251,7 @@ Egyptian Zodiacs and Other Riddles of Ancient History: A Guide to Dating Ancient
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(125).pdf" style="text-decoration:none;">The Oxford History of the Classical World</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(126).pdf" style="text-decoration:none;">First Steps in Egyptian Hieroglyphics: A Book for Beginners</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(126).pdf" style="text-decoration:none;"> Coming into the light: Rituals of Egyptian magick</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(127).pdf" style="text-decoration:none;">Unwrapping the Pharaohs: How Egyptian Archaeology Confirms the Biblical Timeline</a></li> 
     

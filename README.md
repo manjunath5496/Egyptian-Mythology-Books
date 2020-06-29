@@ -158,24 +158,22 @@ Missing Millennium</a></li>
 1967–1973: The USSR's Military Intervention in the Egyptian-Israeli Conflict</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(81).pdf" style="text-decoration:none;">The New Testament in Greek IV</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(82).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Comedy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(81).pdf" style="text-decoration:none;">Encyclopedia of Ancient Egypt</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(82).pdf" style="text-decoration:none;">Masking the Blow: The Scene of Representation in Late Prehistoric Egyptian Art</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(83).pdf" style="text-decoration:none;">The Cambridge History of Greek and Roman Warfare. Vol. II: Rome from the Late Republic to the Late Empire</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(84).pdf" style="text-decoration:none;">Greek and Roman
-Mythology A to Z</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(83).pdf" style="text-decoration:none;">Exodus: The Egyptian Evidence</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(84).pdf" style="text-decoration:none;">Nasser's Gamble: How Intervention in Yemen Caused the Six-Day War and the Decline of Egyptian Power</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(85).pdf" style="text-decoration:none;">Map-by-map directory to accompany Barrington atlas of the Greek and Roman world: with a digital version of the atlas gazetteer</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(86).pdf" style="text-decoration:none;">The Handy Mythology Answer Book</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(85).pdf" style="text-decoration:none;">Aliens in Ancient Egypt: The Brotherhood of the Serpent and the Secrets of the Nile Civilization</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(86).pdf" style="text-decoration:none;">The Egyptian Origins of King David and the Temple of Solomon</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(87).pdf" style="text-decoration:none;">The Maeander Valley:
-A Historical Geography From Antiquity to Byzantium</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(88).pdf" style="text-decoration:none;">The Cambridge history of Greek and Roman warfare: Volume I Greece, the Hellenistic world and the rise of Rome</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(89).pdf" style="text-decoration:none;">Catalogue of the finger rings, Greek, Etruscan, and Roman</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(87).pdf" style="text-decoration:none;">Interpreting Ancient Egyptian Narratives: A Structural Analysis of the Tale of Two Brothers, the Anat Myth, the Osirian Cycle, and the Astarte Papyrus</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(88).pdf" style="text-decoration:none;">Ancient Egypt: A Very Short Introduction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(89).pdf" style="text-decoration:none;">Ancient Egyptian Technology and Innovation</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(90).pdf" style="text-decoration:none;">The Afterlife of Greek and Roman Sculpture</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(91).pdf" style="text-decoration:none;"> Near Eastern Influences on Ancient Greek and Roman Law</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(90).pdf" style="text-decoration:none;">Egyptian Oedipus: Athanasius Kircher and the Secrets of Antiquity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(91).pdf" style="text-decoration:none;"> The Egyptian Origin of Christianity</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(92).pdf" style="text-decoration:none;">Roman Documents from the Greek East: Senatus Consulta and Epistulae to the Age of Augustus</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(93).pdf" style="text-decoration:none;"> Greek Athletics in

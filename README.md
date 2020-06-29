@@ -110,50 +110,52 @@ Six Ways of Life in Ancient Philosophy from Socrates to Plotinus </a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(60).pdf" style="text-decoration:none;">Egyptian Mythology and Egyptian Christianity, with Their Influence on the Opinions of Modern Christendom </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(61).pdf" style="text-decoration:none;">The Art of Building in the Classical World: Vision, Craftsmanship, and Linear Perspective in Greek and Roman Architecture</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(61).pdf" style="text-decoration:none;">Anaximander
+and the Architects</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(62).pdf" style="text-decoration:none;">The Legend of Attis in Greek and Roman art</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(62).pdf" style="text-decoration:none;">The Book of Old Ships: From Egyptian Galleys to Clipper Ships</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(63).pdf" style="text-decoration:none;">Everything Classical Mythology Book: Greek and Roman gods, goddesses, heroes, and monsters from Ares to Zeus</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(63).pdf" style="text-decoration:none;">Ancient Egyptian Furniture: Volume III</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(64).pdf" style="text-decoration:none;">The Politics of Honour in the Greek Cities of the Roman Empire</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(64).pdf" style="text-decoration:none;">Egyptian Mythology A to Z</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(65).pdf" style="text-decoration:none;">Pietas: Selected Studies in Roman Religion (Studies in Greek and Roman Religion, 1) </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(65).pdf" style="text-decoration:none;">A Critical Study of the Works of Nawal El Saadawi, Egyptian Writer and Activist </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(66).pdf" style="text-decoration:none;">Greek and Roman Plays: For the Intermediate Grades, Fearson Teacher Aids, Grades 4-8 </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(66).pdf" style="text-decoration:none;">Hieroglyphic Texts from Egyptian Stelae etc. Part I </a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(67).pdf" style="text-decoration:none;">The Ancient Dancer in the Modern World: Responses to Greek and Roman Dance</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(67).pdf" style="text-decoration:none;">The Christian
+Topography of Cosmas, an Egyptian Monk </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(68).pdf" style="text-decoration:none;">Greek and Roman coins in the Antiquities Museum of the University of Queensland</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(68).pdf" style="text-decoration:none;">After Lives: A Guide to Heaven, Hell, and Purgatory</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(69).pdf" style="text-decoration:none;">BARBARIANS
-in the Greek and Roman World</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(69).pdf" style="text-decoration:none;">Egypt and the Contradictions of Liberalism</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(70).pdf" style="text-decoration:none;">A Companion to Families in the Greek and Roman Worlds</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(70).pdf" style="text-decoration:none;">Ancient Egyptian Imperialism</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(71).pdf" style="text-decoration:none;">Greek Historiography, Roman Society, Christian Empire: The Ecclesiastical History of Eusebius of Caesarea</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(71).pdf" style="text-decoration:none;">Isis on the Nile: Egyptian Gods in Hellenistic and Roman Egypt</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(72).pdf" style="text-decoration:none;">Performance in Greek and Roman Theatre</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(72).pdf" style="text-decoration:none;">Galactic Alignment: The Transformation of Consciousness According to Mayan, Egyptian, and Vedic Traditions</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(73).pdf" style="text-decoration:none;">The Tools of Asclepius:
-Surgical Instruments in Greek and Roman Times</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(74).pdf" style="text-decoration:none;">The Oxford History of Greece and the Hellenistic World</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(75).pdf" style="text-decoration:none;">Jewish Rights
-in the Roman World</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(76).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Art and Architecture</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(73).pdf" style="text-decoration:none;">Handbook of
+Egyptian Mythology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(74).pdf" style="text-decoration:none;"> Egyptian language</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(75).pdf" style="text-decoration:none;">Beyond the Arab
+Cold War: The International History of the Yemen Civil War, 1962– 68</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(76).pdf" style="text-decoration:none;">Egyptology: The
+Missing Millennium</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(77).pdf" style="text-decoration:none;">Egyptian
-Mythology A to Z</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(77).pdf" style="text-decoration:none;">Amarna Sunset: Nefertiti, Tutankhamun, Ay, Horemheb, and the Egyptian Counter-Reformation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(78).pdf" style="text-decoration:none;">Greek Sacred Law</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(79).pdf" style="text-decoration:none;">Antifragile: Things That Gain from Disorder</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(78).pdf" style="text-decoration:none;">From Slave to Pharaoh: The Black Experience of Ancient Egypt</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(79).pdf" style="text-decoration:none;">Daily Life of the Ancient Egyptians</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(80).pdf" style="text-decoration:none;">Encyclopedia of Greek and Roman Mythology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(80).pdf" style="text-decoration:none;">The Soviet–Israeli War,
+1967–1973: The USSR's Military Intervention in the Egyptian-Israeli Conflict</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(81).pdf" style="text-decoration:none;">The New Testament in Greek IV</a></li>

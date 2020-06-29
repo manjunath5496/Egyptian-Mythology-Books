@@ -1,3 +1,400 @@
+<table class="vertical-navbox nowraplinks hlist">
+<tbody>
+<tr>
+<th><a title="Ancient Egyptian religion" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_religion"><span class="nowrap">Ancient Egyptian</span>&nbsp;religion</a></th>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">Beliefs</div>
+<div class="NavContent">
+<ul>
+<li><a title="Ancient Egyptian afterlife beliefs" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_afterlife_beliefs">Afterlife</a></li>
+<li><a title="Duat" href="https://en.wikipedia.org/wiki/Duat">Duat</a></li>
+<li><a title="Maat" href="https://en.wikipedia.org/wiki/Maat">Ma'at</a></li>
+<li><a class="mw-selflink selflink">Mythology</a></li>
+<li><a title="Numbers in Egyptian mythology" href="https://en.wikipedia.org/wiki/Numbers_in_Egyptian_mythology">Numerology</a></li>
+<li><a title="Ancient Egyptian philosophy" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_philosophy">Philosophy</a></li>
+<li><a class="mw-redirect" title="Ancient Egyptian concept of the soul" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_concept_of_the_soul">Soul</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">Practices</div>
+<div class="NavContent">
+<ul>
+<li><a class="mw-redirect" title="Ancient Egyptian burial customs" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_burial_customs">Funerals</a></li>
+<li><a title="Ancient Egyptian offering formula" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_offering_formula">Offering formula</a></li>
+<li><a title="Egyptian temple" href="https://en.wikipedia.org/wiki/Egyptian_temple">Temples</a></li>
+<li><a class="mw-redirect" title="Pyramids" href="https://en.wikipedia.org/wiki/Pyramids">Pyramids</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead"><a class="mw-redirect" title="Egyptian pantheon" href="https://en.wikipedia.org/wiki/Egyptian_pantheon">Deities</a>&nbsp;(<a title="List of Egyptian deities" href="https://en.wikipedia.org/wiki/List_of_Egyptian_deities">list</a>)</div>
+<div class="NavContent">
+<div>
+<table class="nowraplinks navbox-subgroup">
+<tbody>
+<tr>
+<th class="navbox-group" scope="row"><a title="Ogdoad (Egyptian)" href="https://en.wikipedia.org/wiki/Ogdoad_(Egyptian)">Ogdoad</a></th>
+<td class="navbox-list navbox-odd hlist">
+<div>
+<ul>
+<li><a title="Amun" href="https://en.wikipedia.org/wiki/Amun">Amun</a></li>
+<li><a title="Amunet" href="https://en.wikipedia.org/wiki/Amunet">Amunet</a></li>
+<li><a class="mw-redirect" title="Hauhet" href="https://en.wikipedia.org/wiki/Hauhet">Hauhet</a></li>
+<li><a title="Heh (god)" href="https://en.wikipedia.org/wiki/Heh_(god)">Heh</a></li>
+<li><a class="mw-redirect" title="Kauket" href="https://en.wikipedia.org/wiki/Kauket">Kauket</a></li>
+<li><a title="Kek (mythology)" href="https://en.wikipedia.org/wiki/Kek_(mythology)">Kek</a></li>
+<li><a class="mw-redirect" title="Naunet" href="https://en.wikipedia.org/wiki/Naunet">Naunet</a></li>
+<li><a title="Nu (mythology)" href="https://en.wikipedia.org/wiki/Nu_(mythology)">Nu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a title="Ennead" href="https://en.wikipedia.org/wiki/Ennead">Ennead</a></th>
+<td class="navbox-list navbox-even hlist">
+<div>
+<ul>
+<li><a title="Atum" href="https://en.wikipedia.org/wiki/Atum">Atum</a></li>
+<li><a title="Geb" href="https://en.wikipedia.org/wiki/Geb">Geb</a></li>
+<li><a title="Isis" href="https://en.wikipedia.org/wiki/Isis">Isis</a></li>
+<li><a title="Nephthys" href="https://en.wikipedia.org/wiki/Nephthys">Nephthys</a></li>
+<li><a title="Nut (goddess)" href="https://en.wikipedia.org/wiki/Nut_(goddess)">Nut</a></li>
+<li><a title="Osiris" href="https://en.wikipedia.org/wiki/Osiris">Osiris</a></li>
+<li><a title="Set (deity)" href="https://en.wikipedia.org/wiki/Set_(deity)">Set</a></li>
+<li><a title="Shu (Egyptian god)" href="https://en.wikipedia.org/wiki/Shu_(Egyptian_god)">Shu</a></li>
+<li><a title="Tefnut" href="https://en.wikipedia.org/wiki/Tefnut">Tefnut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2">
+<div><strong>A</strong>
+<ul>
+<li><a title="Aker (deity)" href="https://en.wikipedia.org/wiki/Aker_(deity)">Aker</a></li>
+<li><a title="Akhty (deity)" href="https://en.wikipedia.org/wiki/Akhty_(deity)">Akhty</a></li>
+<li><a title="Ammit" href="https://en.wikipedia.org/wiki/Ammit">Ammit</a></li>
+<li><a title="Am-heh" href="https://en.wikipedia.org/wiki/Am-heh">Am-heh</a></li>
+<li><a title="Anat" href="https://en.wikipedia.org/wiki/Anat">Anat</a></li>
+<li><a title="Andjety" href="https://en.wikipedia.org/wiki/Andjety">Andjety</a></li>
+<li><a title="Anhur" href="https://en.wikipedia.org/wiki/Anhur">Anhur</a></li>
+<li><a title="Anput" href="https://en.wikipedia.org/wiki/Anput">Anput</a></li>
+<li><a title="Anubis" href="https://en.wikipedia.org/wiki/Anubis">Anubis</a></li>
+<li><a title="Anuket" href="https://en.wikipedia.org/wiki/Anuket">Anuket</a></li>
+<li><a title="Apedemak" href="https://en.wikipedia.org/wiki/Apedemak">Apedemak</a></li>
+<li><a title="Apep" href="https://en.wikipedia.org/wiki/Apep">Apep</a></li>
+<li><a title="Apis (deity)" href="https://en.wikipedia.org/wiki/Apis_(deity)">Apis</a></li>
+<li><a title="Apt (Egyptian)" href="https://en.wikipedia.org/wiki/Apt_(Egyptian)">Apt</a></li>
+<li><a title="Aqen" href="https://en.wikipedia.org/wiki/Aqen">Aqen</a></li>
+<li><a title="Arensnuphis" href="https://en.wikipedia.org/wiki/Arensnuphis">Arensnuphis</a></li>
+<li><a title="Ash (deity)" href="https://en.wikipedia.org/wiki/Ash_(deity)">Ash</a></li>
+<li><a title="Assessors of Maat" href="https://en.wikipedia.org/wiki/Assessors_of_Maat">Assessors</a></li>
+<li><a title="Astarte" href="https://en.wikipedia.org/wiki/Astarte">Astarte</a></li>
+<li><a title="Aten" href="https://en.wikipedia.org/wiki/Aten">Aten</a></li>
+</ul>
+<p><strong>B</strong></p>
+<ul>
+<li><a title="Babi (mythology)" href="https://en.wikipedia.org/wiki/Babi_(mythology)">Babi</a></li>
+<li><a title="Banebdjedet" href="https://en.wikipedia.org/wiki/Banebdjedet">Banebdjedet</a></li>
+<li><a title="Bastet" href="https://en.wikipedia.org/wiki/Bastet">Bastet</a></li>
+<li><a title="Bat (goddess)" href="https://en.wikipedia.org/wiki/Bat_(goddess)">Bat</a></li>
+<li><a title="Bata (god)" href="https://en.wikipedia.org/wiki/Bata_(god)">Bata</a></li>
+<li><a title="Ba-Pef" href="https://en.wikipedia.org/wiki/Ba-Pef">Ba-Pef</a></li>
+<li><a title="Bennu" href="https://en.wikipedia.org/wiki/Bennu">Bennu</a></li>
+<li><a title="Bes" href="https://en.wikipedia.org/wiki/Bes">Bes</a></li>
+<li><a title="Buchis" href="https://en.wikipedia.org/wiki/Buchis">Buchis</a></li>
+</ul>
+<p><strong>C</strong></p>
+<ul>
+<li><a title="Cavern deities of the underworld" href="https://en.wikipedia.org/wiki/Cavern_deities_of_the_underworld">Cavern deities</a></li>
+</ul>
+<p><strong>D</strong></p>
+<ul>
+<li><a title="Dedun" href="https://en.wikipedia.org/wiki/Dedun">Dedun</a></li>
+</ul>
+<p><strong>F</strong></p>
+<ul>
+<li><a title="Four sons of Horus" href="https://en.wikipedia.org/wiki/Four_sons_of_Horus">Four sons of Horus</a>&nbsp;
+<ul>
+<li><a title="Duamutef" href="https://en.wikipedia.org/wiki/Duamutef">Duamutef</a></li>
+<li><a title="Hapi (Son of Horus)" href="https://en.wikipedia.org/wiki/Hapi_(Son_of_Horus)">Hapi</a></li>
+<li><a title="Imset" href="https://en.wikipedia.org/wiki/Imset">Imset</a></li>
+<li><a title="Qebehsenuef" href="https://en.wikipedia.org/wiki/Qebehsenuef">Qebehsenuef</a></li>
+</ul>
+</li>
+</ul>
+<p><strong>G</strong></p>
+<ul>
+<li><a title="Gate deities of the underworld" href="https://en.wikipedia.org/wiki/Gate_deities_of_the_underworld">Gate deities</a></li>
+</ul>
+<p><strong>H</strong></p>
+<ul>
+<li><a title="Ha (mythology)" href="https://en.wikipedia.org/wiki/Ha_(mythology)">Ha</a></li>
+<li><a title="Hapi (Nile god)" href="https://en.wikipedia.org/wiki/Hapi_(Nile_god)">Hapi</a></li>
+<li><a title="Hathor" href="https://en.wikipedia.org/wiki/Hathor">Hathor</a></li>
+<li><a title="Hatmehit" href="https://en.wikipedia.org/wiki/Hatmehit">Hatmehit</a></li>
+<li><a title="Hedetet" href="https://en.wikipedia.org/wiki/Hedetet">Hedetet</a></li>
+<li><a title="Hedjhotep" href="https://en.wikipedia.org/wiki/Hedjhotep">Hedjhotep</a></li>
+<li><a title="Heka (god)" href="https://en.wikipedia.org/wiki/Heka_(god)">Heka</a></li>
+<li><a title="Hemen" href="https://en.wikipedia.org/wiki/Hemen">Hemen</a></li>
+<li><a title="Hemsut" href="https://en.wikipedia.org/wiki/Hemsut">Hemsut</a></li>
+<li><a title="Heqet" href="https://en.wikipedia.org/wiki/Heqet">Heqet</a></li>
+<li><a title="Hermanubis" href="https://en.wikipedia.org/wiki/Hermanubis">Hermanubis</a></li>
+<li><a title="Hesat" href="https://en.wikipedia.org/wiki/Hesat">Hesat</a></li>
+<li><a title="Horus" href="https://en.wikipedia.org/wiki/Horus">Horus</a></li>
+<li><a title="Heryshaf" href="https://en.wikipedia.org/wiki/Heryshaf">Heryshaf</a></li>
+<li><a title="Hu (mythology)" href="https://en.wikipedia.org/wiki/Hu_(mythology)">Hu</a></li>
+</ul>
+<p><strong>I</strong></p>
+<ul>
+<li><a title="Iabet" href="https://en.wikipedia.org/wiki/Iabet">Iabet</a></li>
+<li><a title="Iah" href="https://en.wikipedia.org/wiki/Iah">Iah</a></li>
+<li><a title="Iat" href="https://en.wikipedia.org/wiki/Iat">Iat</a></li>
+<li><a title="Ihy" href="https://en.wikipedia.org/wiki/Ihy">Ihy</a></li>
+<li><a title="Imentet" href="https://en.wikipedia.org/wiki/Imentet">Imentet</a></li>
+<li><a title="Imhotep" href="https://en.wikipedia.org/wiki/Imhotep">Imhotep</a></li>
+<li><a title="Iunit" href="https://en.wikipedia.org/wiki/Iunit">Iunit</a></li>
+<li><a title="Iusaaset" href="https://en.wikipedia.org/wiki/Iusaaset">Iusaaset</a></li>
+</ul>
+<p><strong>K</strong></p>
+<ul>
+<li><a title="Kebechet" href="https://en.wikipedia.org/wiki/Kebechet">Kebechet</a></li>
+<li><a title="Khensit" href="https://en.wikipedia.org/wiki/Khensit">Khensit</a></li>
+<li><a title="Khenti-Amentiu" href="https://en.wikipedia.org/wiki/Khenti-Amentiu">Khenti-Amentiu</a></li>
+<li><a title="Khenti-kheti" href="https://en.wikipedia.org/wiki/Khenti-kheti">Khenti-kheti</a></li>
+<li><a title="Khepri" href="https://en.wikipedia.org/wiki/Khepri">Khepri</a></li>
+<li><a title="Kherty" href="https://en.wikipedia.org/wiki/Kherty">Kherty</a></li>
+<li><a title="Khnum" href="https://en.wikipedia.org/wiki/Khnum">Khnum</a></li>
+<li><a title="Khonsu" href="https://en.wikipedia.org/wiki/Khonsu">Khonsu</a></li>
+<li><a title="Kothar-wa-Khasis" href="https://en.wikipedia.org/wiki/Kothar-wa-Khasis">Kothar-wa-Khasis</a></li>
+</ul>
+<p><strong>M</strong></p>
+<ul>
+<li><a title="Maahes" href="https://en.wikipedia.org/wiki/Maahes">Maahes</a></li>
+<li><a title="Maat" href="https://en.wikipedia.org/wiki/Maat">Ma'at</a></li>
+<li><a title="Mandulis" href="https://en.wikipedia.org/wiki/Mandulis">Mandulis</a></li>
+<li><a class="mw-redirect" title="Medjed (god)" href="https://en.wikipedia.org/wiki/Medjed_(god)">Medjed</a></li>
+<li><a title="Mafdet" href="https://en.wikipedia.org/wiki/Mafdet">Mafdet</a></li>
+<li><a title="Mehen" href="https://en.wikipedia.org/wiki/Mehen">Mehen</a></li>
+<li><a title="Mehet-Weret" href="https://en.wikipedia.org/wiki/Mehet-Weret">Mehet-Weret</a></li>
+<li><a title="Mehit" href="https://en.wikipedia.org/wiki/Mehit">Mehit</a></li>
+<li><a title="Menhit" href="https://en.wikipedia.org/wiki/Menhit">Menhit</a></li>
+<li><a title="Meret" href="https://en.wikipedia.org/wiki/Meret">Meret</a></li>
+<li><a title="Meretseger" href="https://en.wikipedia.org/wiki/Meretseger">Meretseger</a></li>
+<li><a title="Meskhenet" href="https://en.wikipedia.org/wiki/Meskhenet">Meskhenet</a></li>
+<li><a title="Min (god)" href="https://en.wikipedia.org/wiki/Min_(god)">Min</a></li>
+<li><a title="Mnevis" href="https://en.wikipedia.org/wiki/Mnevis">Mnevis</a></li>
+<li><a title="Montu" href="https://en.wikipedia.org/wiki/Montu">Montu</a></li>
+<li><a title="Mut" href="https://en.wikipedia.org/wiki/Mut">Mut</a></li>
+</ul>
+<p><strong>N</strong></p>
+<ul>
+<li><a title="Nebethetepet" href="https://en.wikipedia.org/wiki/Nebethetepet">Nebethetepet</a></li>
+<li><a title="Nebtuwi" href="https://en.wikipedia.org/wiki/Nebtuwi">Nebtuwi</a></li>
+<li><a title="Nefertem" href="https://en.wikipedia.org/wiki/Nefertem">Nefertem</a></li>
+<li><a title="Nehebkau" href="https://en.wikipedia.org/wiki/Nehebkau">Nehebkau</a></li>
+<li><a title="Nehmetawy" href="https://en.wikipedia.org/wiki/Nehmetawy">Nehmetawy</a></li>
+<li><a title="Neith" href="https://en.wikipedia.org/wiki/Neith">Neith</a></li>
+<li><a title="Nemty" href="https://en.wikipedia.org/wiki/Nemty">Nemty</a></li>
+<li><a title="Nekhbet" href="https://en.wikipedia.org/wiki/Nekhbet">Nekhbet</a></li>
+<li><a title="Neper (mythology)" href="https://en.wikipedia.org/wiki/Neper_(mythology)">Neper</a></li>
+</ul>
+<p><strong>P</strong></p>
+<ul>
+<li><a title="Pakhet" href="https://en.wikipedia.org/wiki/Pakhet">Pakhet</a></li>
+<li><a title="Petbe" href="https://en.wikipedia.org/wiki/Petbe">Petbe</a></li>
+<li><a title="Ptah" href="https://en.wikipedia.org/wiki/Ptah">Ptah</a></li>
+</ul>
+<p><strong>Q</strong></p>
+<ul>
+<li><a title="Qebui" href="https://en.wikipedia.org/wiki/Qebui">Qebui</a></li>
+<li><a title="Qetesh" href="https://en.wikipedia.org/wiki/Qetesh">Qetesh</a></li>
+</ul>
+<p><strong>R</strong></p>
+<ul>
+<li><a title="Ra" href="https://en.wikipedia.org/wiki/Ra">Ra</a></li>
+<li><a title="Raet-Tawy" href="https://en.wikipedia.org/wiki/Raet-Tawy">Raet-Tawy</a></li>
+<li><a title="Rem (mythology)" href="https://en.wikipedia.org/wiki/Rem_(mythology)">Rem</a></li>
+<li><a title="Renenutet" href="https://en.wikipedia.org/wiki/Renenutet">Renenutet</a></li>
+<li><a title="Renpet" href="https://en.wikipedia.org/wiki/Renpet">Renpet</a></li>
+<li><a title="Repyt" href="https://en.wikipedia.org/wiki/Repyt">Repyt</a></li>
+<li><a title="Resheph" href="https://en.wikipedia.org/wiki/Resheph">Resheph</a></li>
+</ul>
+<p><strong>S</strong></p>
+<ul>
+<li><a title="Sah (god)" href="https://en.wikipedia.org/wiki/Sah_(god)">Sah</a></li>
+<li><a title="Satis (goddess)" href="https://en.wikipedia.org/wiki/Satis_(goddess)">Satis</a></li>
+<li><a title="Sekhmet" href="https://en.wikipedia.org/wiki/Sekhmet">Sekhmet</a></li>
+<li><a title="Seker" href="https://en.wikipedia.org/wiki/Seker">Seker</a></li>
+<li><a title="Serapis" href="https://en.wikipedia.org/wiki/Serapis">Serapis</a></li>
+<li><a title="Serket" href="https://en.wikipedia.org/wiki/Serket">Serket</a></li>
+<li><a title="Seshat" href="https://en.wikipedia.org/wiki/Seshat">Seshat</a></li>
+<li><a title="Shai" href="https://en.wikipedia.org/wiki/Shai">Shai</a></li>
+<li><a title="Shed (deity)" href="https://en.wikipedia.org/wiki/Shed_(deity)">Shed</a></li>
+<li><a title="Shesmetet" href="https://en.wikipedia.org/wiki/Shesmetet">Shesmetet</a></li>
+<li><a title="Shezmu" href="https://en.wikipedia.org/wiki/Shezmu">Shezmu</a></li>
+<li><a title="Sia (god)" href="https://en.wikipedia.org/wiki/Sia_(god)">Sia</a></li>
+<li><a title="Sobek" href="https://en.wikipedia.org/wiki/Sobek">Sobek</a></li>
+<li><a title="Sopdet" href="https://en.wikipedia.org/wiki/Sopdet">Sopdet</a></li>
+<li><a title="Sopdu" href="https://en.wikipedia.org/wiki/Sopdu">Sopdu</a></li>
+<li><a title="Souls of Pe and Nekhen" href="https://en.wikipedia.org/wiki/Souls_of_Pe_and_Nekhen">Souls of Pe and Nekhen</a></li>
+</ul>
+<p><strong>T</strong></p>
+<ul>
+<li><a title="Tatenen" href="https://en.wikipedia.org/wiki/Tatenen">Tatenen</a></li>
+<li><a title="Taweret" href="https://en.wikipedia.org/wiki/Taweret">Taweret</a></li>
+<li><a title="Tayt" href="https://en.wikipedia.org/wiki/Tayt">Tayt</a></li>
+<li><a title="Ta-Bitjet" href="https://en.wikipedia.org/wiki/Ta-Bitjet">Ta-Bitjet</a></li>
+<li><a class="mw-redirect" title="Tenenet" href="https://en.wikipedia.org/wiki/Tenenet">Tenenet</a></li>
+<li><a title="Thoth" href="https://en.wikipedia.org/wiki/Thoth">Thoth</a>&nbsp;
+<ul>
+<li><a title="Hermes Trismegistus" href="https://en.wikipedia.org/wiki/Hermes_Trismegistus">Hermes Trismegistus</a></li>
+</ul>
+</li>
+<li><a title="Tjenenyet" href="https://en.wikipedia.org/wiki/Tjenenyet">Tjenenyet</a></li>
+<li><a title="Tutu (Egyptian god)" href="https://en.wikipedia.org/wiki/Tutu_(Egyptian_god)">Tutu</a></li>
+</ul>
+<p><strong>U</strong></p>
+<ul>
+<li><a title="Unut" href="https://en.wikipedia.org/wiki/Unut">Unut</a></li>
+</ul>
+<p><strong>W</strong></p>
+<ul>
+<li><a title="Wadjet" href="https://en.wikipedia.org/wiki/Wadjet">Wadjet</a></li>
+<li><a title="Wadj-wer" href="https://en.wikipedia.org/wiki/Wadj-wer">Wadj-wer</a></li>
+<li><a title="Weneg (Egyptian deity)" href="https://en.wikipedia.org/wiki/Weneg_(Egyptian_deity)">Weneg</a></li>
+<li><a title="Wepset" href="https://en.wikipedia.org/wiki/Wepset">Wepset</a></li>
+<li><a title="Wepwawet" href="https://en.wikipedia.org/wiki/Wepwawet">Wepwawet</a></li>
+<li><a title="Werethekau" href="https://en.wikipedia.org/wiki/Werethekau">Werethekau</a></li>
+<li><a title="Wosret" href="https://en.wikipedia.org/wiki/Wosret">Wosret</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">Locations</div>
+<div class="NavContent">
+<ul>
+<li><a title="Neter-khertet" href="https://en.wikipedia.org/wiki/Neter-khertet">Neter-khertet</a></li>
+<li><a title="Aaru" href="https://en.wikipedia.org/wiki/Aaru">Aaru</a></li>
+<li><a title="Benben" href="https://en.wikipedia.org/wiki/Benben">Benben</a></li>
+<li><a title="Duat" href="https://en.wikipedia.org/wiki/Duat">Duat</a></li>
+<li><a title="Land of Manu" href="https://en.wikipedia.org/wiki/Land_of_Manu">Land of Manu</a></li>
+<li><a title="The Indestructibles" href="https://en.wikipedia.org/wiki/The_Indestructibles">The Indestructibles</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead"><a title="Category:Ancient Egyptian symbols" href="https://en.wikipedia.org/wiki/Category:Ancient_Egyptian_symbols">Symbols and objects</a></div>
+<div class="NavContent">
+<ul>
+<li><a title="Aani" href="https://en.wikipedia.org/wiki/Aani">Aani</a></li>
+<li><a title="Abtu" href="https://en.wikipedia.org/wiki/Abtu">Abtu</a></li>
+<li><a title="Ankh" href="https://en.wikipedia.org/wiki/Ankh">Ankh</a></li>
+<li><a title="Atef" href="https://en.wikipedia.org/wiki/Atef">Atef</a></li>
+<li><a title="Atet" href="https://en.wikipedia.org/wiki/Atet">Atet</a></li>
+<li><a title="Book of Thoth" href="https://en.wikipedia.org/wiki/Book_of_Thoth">Book of Thoth</a></li>
+<li><a class="mw-redirect" title="Cartouche (hieroglyph)" href="https://en.wikipedia.org/wiki/Cartouche_(hieroglyph)">Cartouche</a></li>
+<li><a title="Crook and flail" href="https://en.wikipedia.org/wiki/Crook_and_flail">Crook and flail</a></li>
+<li><a title="Deshret" href="https://en.wikipedia.org/wiki/Deshret">Deshret</a></li>
+<li><a title="Djed" href="https://en.wikipedia.org/wiki/Djed">Djed</a></li>
+<li><a class="mw-redirect" title="Egyptian obelisk" href="https://en.wikipedia.org/wiki/Egyptian_obelisk">Egyptian obelisk</a></li>
+<li><a title="Egyptian pool" href="https://en.wikipedia.org/wiki/Egyptian_pool">Egyptian pool</a></li>
+<li><a title="Eye of Horus" href="https://en.wikipedia.org/wiki/Eye_of_Horus">Eye of Horus</a></li>
+<li><a title="Eye of Ra" href="https://en.wikipedia.org/wiki/Eye_of_Ra">Eye of Ra</a></li>
+<li><a title="Griffin" href="https://en.wikipedia.org/wiki/Griffin">Griffin</a></li>
+<li><a title="Hedjet" href="https://en.wikipedia.org/wiki/Hedjet">Hedjet</a></li>
+<li><a title="Hemhem crown" href="https://en.wikipedia.org/wiki/Hemhem_crown">Hemhem crown</a></li>
+<li><a title="Hennu" href="https://en.wikipedia.org/wiki/Hennu">Hennu</a></li>
+<li><a title="Hieracosphinx" href="https://en.wikipedia.org/wiki/Hieracosphinx">Hieracosphinx</a></li>
+<li><a title="Imiut fetish" href="https://en.wikipedia.org/wiki/Imiut_fetish">Imiut fetish</a></li>
+<li><a title="Khepresh" href="https://en.wikipedia.org/wiki/Khepresh">Khepresh</a></li>
+<li><a title="Kneph" href="https://en.wikipedia.org/wiki/Kneph">Kneph</a></li>
+<li><a title="Matet boat" href="https://en.wikipedia.org/wiki/Matet_boat">Matet boat</a></li>
+<li><a title="Medjed (fish)" href="https://en.wikipedia.org/wiki/Medjed_(fish)">Medjed</a></li>
+<li><a title="Menat" href="https://en.wikipedia.org/wiki/Menat">Menat</a></li>
+<li><a title="Nebu" href="https://en.wikipedia.org/wiki/Nebu">Nebu</a></li>
+<li><a title="Nemes" href="https://en.wikipedia.org/wiki/Nemes">Nemes</a></li>
+<li><a title="Neshmet" href="https://en.wikipedia.org/wiki/Neshmet">Neshmet</a></li>
+<li><a title="Ouroboros" href="https://en.wikipedia.org/wiki/Ouroboros">Ouroboros</a></li>
+<li><a title="Pschent" href="https://en.wikipedia.org/wiki/Pschent">Pschent</a></li>
+<li><a title="Scarab (artifact)" href="https://en.wikipedia.org/wiki/Scarab_(artifact)">Scarab</a></li>
+<li><a title="Seqtet boat" href="https://en.wikipedia.org/wiki/Seqtet_boat">Seqtet boat</a></li>
+<li><a title="Serekh" href="https://en.wikipedia.org/wiki/Serekh">Serekh</a></li>
+<li><a title="Serpopard" href="https://en.wikipedia.org/wiki/Serpopard">Serpopard</a></li>
+<li><a title="Set animal" href="https://en.wikipedia.org/wiki/Set_animal">Set animal</a></li>
+<li><a title="Shen ring" href="https://en.wikipedia.org/wiki/Shen_ring">Shen ring</a></li>
+<li><a title="Sphinx" href="https://en.wikipedia.org/wiki/Sphinx">Sphinx</a></li>
+<li><a title="Tyet" href="https://en.wikipedia.org/wiki/Tyet">Tyet</a></li>
+<li><a title="Uraeus" href="https://en.wikipedia.org/wiki/Uraeus">Uraeus</a></li>
+<li><a title="Ushabti" href="https://en.wikipedia.org/wiki/Ushabti">Ushabti</a></li>
+<li><a title="Was-sceptre" href="https://en.wikipedia.org/wiki/Was-sceptre">Was-sceptre</a></li>
+<li><a title="Winged sun" href="https://en.wikipedia.org/wiki/Winged_sun">Winged sun</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead">Texts</div>
+<div class="NavContent">
+<ul>
+<li><a title="Ancient Egyptian funerary texts" href="https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_texts">Funerary texts</a>&nbsp;(<em><a title="Amduat" href="https://en.wikipedia.org/wiki/Amduat">Amduat</a>&nbsp;&bull;&nbsp;<a title="Books of Breathing" href="https://en.wikipedia.org/wiki/Books_of_Breathing">Books of Breathing</a>&nbsp;&bull;&nbsp;<a title="Book of Caverns" href="https://en.wikipedia.org/wiki/Book_of_Caverns">Book of Caverns</a>&nbsp;&bull;&nbsp;<a title="Book of the Dead" href="https://en.wikipedia.org/wiki/Book_of_the_Dead">Book of the Dead</a>&nbsp;&bull;&nbsp;<a title="Book of the Earth" href="https://en.wikipedia.org/wiki/Book_of_the_Earth">Book of the Earth</a>&nbsp;&bull;&nbsp;<a title="Book of Gates" href="https://en.wikipedia.org/wiki/Book_of_Gates">Book of Gates</a></em>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame7" class="NavFrame collapsed">
+<div class="NavHead">Related religions</div>
+<div class="NavContent">
+<ul>
+<li><a title="Atenism" href="https://en.wikipedia.org/wiki/Atenism">Atenism</a></li>
+<li><a title="Hermeticism" href="https://en.wikipedia.org/wiki/Hermeticism">Hermeticism</a></li>
+<li><a title="Thelema" href="https://en.wikipedia.org/wiki/Thelema">Thelema</a></li>
+<li><a title="Kemetism" href="https://en.wikipedia.org/wiki/Kemetism">Kemeticism</a>&nbsp;(<a title="Kemetic Orthodoxy" href="https://en.wikipedia.org/wiki/Kemetic_Orthodoxy">Kemetic Orthodoxy</a>&nbsp;&bull;&nbsp;<a class="mw-redirect" title="Church of the Most High Goddess" href="https://en.wikipedia.org/wiki/Church_of_the_Most_High_Goddess">Church of the Most High Goddess</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td><a title="Portal:Ancient Egypt" href="https://en.wikipedia.org/wiki/Portal:Ancient_Egypt">Ancient Egypt portal</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <h2> Books </h2>
 <ul>
 

@@ -243,13 +243,31 @@ Egyptian Gods and Goddesses</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(121).pdf" style="text-decoration:none;">Egyptian Myth and Legend</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(122).pdf" style="text-decoration:none;">A History of the Classical Greek World, 478–323 BC</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(122).pdf" style="text-decoration:none;">First Steps in Egyptian Hieroglyphics: A Book for Beginners</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(123).pdf" style="text-decoration:none;">Get Started in Greek</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(123).pdf" style="text-decoration:none;">Horrible Histories: The Awesome Egyptians</a></li> 
     
-   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(124).pdf" style="text-decoration:none;">The Greek Myths: Stories of the Greek Gods and Heroes Vividly Retold</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(124).pdf" style="text-decoration:none;">Mysteries of
+Egyptian Zodiacs and Other Riddles of Ancient History: A Guide to Dating Ancient Astronomical Data</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(125).pdf" style="text-decoration:none;">The Greeks and Greek civilization</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(125).pdf" style="text-decoration:none;">The Oxford History of the Classical World</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(126).pdf" style="text-decoration:none;">First Steps in Egyptian Hieroglyphics: A Book for Beginners</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(127).pdf" style="text-decoration:none;">Unwrapping the Pharaohs: How Egyptian Archaeology Confirms the Biblical Timeline</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(128).pdf" style="text-decoration:none;">Whose Pharaohs?
+Archaeology, Museums, and Egyptian National Identity from Napoleon to World War I </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(129).pdf" style="text-decoration:none;">The Gods of the Egyptians or Studies in Egyptian Mythology: Volume 1</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Egyptian-Mythology-Books/blob/master/egy(130).pdf" style="text-decoration:none;">Atlas of Egyptian Art</a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  </ul>
